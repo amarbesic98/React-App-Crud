@@ -1,0 +1,81 @@
+{
+  "contacts": [
+    {
+      "name": "John1",
+      "username": "johnyy",
+      "email": "john@gmail.com",
+      "phone": "111-222-33-4",
+      "id": 1
+    },
+    {
+      "name": "Lorem",
+      "username": "ipsum1",
+      "email": "lor@gmail.com",
+      "phone": "777-222-33",
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "username": "test",
+      "email": "test@gmail.com",
+      "phone": "321-123-33",
+      "id": 4
+    },
+    {
+      "name": "Amar Besic",
+      "username": "kiconiy",
+      "email": "amar.besic@edu.fit.ba",
+      "phone": "062093424",
+      "id": 5
+    },
+    {
+      "name": "Ross",
+      "username": "rosx",
+      "email": "ros@gmail.com",
+      "phone": "1111111",
+      "id": 6
+    },
+    {
+      "name": "leomesi",
+      "username": "iksara",
+      "email": "leomesi@leo.com",
+      "phone": "2-3-1-2-3-4-5",
+      "id": 7
+    },
+    {
+      "name": "Mad",
+      "username": "dog",
+      "email": "madDog@com.ba",
+      "phone": "1213",
+      "id": 8
+    },
+    {
+      "name": "Kraken",
+      "username": "bender",
+      "email": "bender@com.ba",
+      "phone": "2331122",
+      "id": 9
+    },
+    {
+      "name": "Roberto",
+      "username": "bagio",
+      "email": "bagio@roberto.com",
+      "phone": "444444-1-2",
+      "id": 10
+    },
+    {
+      "name": "Last",
+      "username": "user",
+      "email": "today@com.ba",
+      "phone": "19999922",
+      "id": 11
+    },
+    {
+      "name": "Dzeno",
+      "username": "jaran",
+      "email": "jaran@dzeno.com",
+      "phone": "223451",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.search {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+
+
+}
+.input {
+  width: 40%;
+  height: 40px;
+  background-color: white;
+  color: black;
+
+}
+
